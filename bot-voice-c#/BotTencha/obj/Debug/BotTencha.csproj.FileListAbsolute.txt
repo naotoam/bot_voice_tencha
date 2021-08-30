@@ -1,0 +1,6 @@
+C:\Users\gagui\Documents\Personal Projects\bot-voice-c#\BotTencha\bin\Debug\BotTencha.exe.config
+C:\Users\gagui\Documents\Personal Projects\bot-voice-c#\BotTencha\bin\Debug\BotTencha.exe
+C:\Users\gagui\Documents\Personal Projects\bot-voice-c#\BotTencha\bin\Debug\BotTencha.pdb
+C:\Users\gagui\Documents\Personal Projects\bot-voice-c#\BotTencha\obj\Debug\BotTencha.csprojResolveAssemblyReference.cache
+C:\Users\gagui\Documents\Personal Projects\bot-voice-c#\BotTencha\obj\Debug\BotTencha.exe
+C:\Users\gagui\Documents\Personal Projects\bot-voice-c#\BotTencha\obj\Debug\BotTencha.pdb
